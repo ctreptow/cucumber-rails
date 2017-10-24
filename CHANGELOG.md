@@ -1,3 +1,4 @@
+
 Please see [CONTRIBUTING.md](https://github.com/cucumber/cucumber/blob/master/CONTRIBUTING.md) on how to contribute to Cucumber.
 
 ## [master](https://github.com/cucumber/cucumber-rails/compare/1.5.0...master) (Not yet released)
